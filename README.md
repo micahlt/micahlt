@@ -1,8 +1,6 @@
 ## Hello, world! 🌎
 I'm Micah, a teen web developer, graphic designer, and musician making his way in the world of technology.  Beyond my interests in online web development, I'm interested in web technologies everywhere - specifically projects like Capacitor and Electron.  Below is a list of most of the technologies and platforms that I am currently working with or have in the past.  You're also welcome to visit [my website](https://micahlindley.com/) for more information about me and my work.
 
-SOCIAL
-
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/micahlt)
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10806546/micahlt)
 [![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/micahlt)
