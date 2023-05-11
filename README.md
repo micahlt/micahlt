@@ -1,5 +1,5 @@
 ## Hello, world! 🌎
-I'm Micah, a web developer, graphic designer, and musician with over 7 years of experience in the tech world.  Currently I'm working as Webmaster for Epic Solutions and interning for Speak Creative.  Feel free to visit [my website](https://micahlindley.com/) for more information about me and my work!
+I'm Micah, a web developer, graphic designer, and musician with over 7 years of experience in the tech world.  Currently I'm working at [Speak Creative](https://madebyspeak.com) as a Platforms Intern and attending [Mississippi College](https://mc.edu/) studying Computer Information Systems.  Feel free to visit [my website](https://micahlindley.com/) for more information about me and my work!
 
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/micahlt)
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10806546/micahlt)
